@@ -1,0 +1,4 @@
+fastapi[standard]
+scikit-learn
+psycopg2-binary
+sqlalchemy
