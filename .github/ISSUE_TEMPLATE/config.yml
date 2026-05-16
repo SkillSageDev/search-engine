@@ -1,8 +1,12 @@
+# .github/ISSUE_TEMPLATE/config.yml
+#
+# Controls the "Create new issue" picker.
+# blank_issues_enabled: false hides the blank issue option for non-owners.
+# Repository owners can always create blank issues regardless of this setting.
+
 blank_issues_enabled: false
 
 contact_links:
   - name: Ask a Question
     url: https://github.com/SkillSageDev/search-engine/discussions
-    about: >
-      For questions about how the project works, use GitHub Discussions
-      instead of filing an issue.
+    about: For questions about how the project works, use Discussions instead of filing an issue.
